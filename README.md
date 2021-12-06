@@ -1,5 +1,4 @@
-#  NLP-AD Test
-Zhuo Yixuan
+#Project Instruction
 
 ## Web crawle
 File: CrawlAllNews.py 
