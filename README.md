@@ -1,6 +1,6 @@
 #Project Instruction
 
-## Web crawle
+## Web crawl
 File: CrawlAllNews.py 
 
 First use function GetLoadedPageContent(url, n) to simulate cilck the web by 20 times,
